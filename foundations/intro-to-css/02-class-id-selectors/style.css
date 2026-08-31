@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.oddnumber {
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif ;
+}
+
+.oddnumber.header{
+    font-size: 24px;
+}
+
+#secondele{
+    color: blue;
+    font-size: 36px;
+}
+
+#fourthele {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
